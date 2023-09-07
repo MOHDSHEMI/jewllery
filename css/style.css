@@ -395,4 +395,10 @@ button {
     
 
 }
+.deal-of-the-day1 h2,h4,p{
+    opacity: 100%;
+    font-weight: 900;
+    -webkit-text-stroke: 1px black;
+    color:#fff
+}
 
